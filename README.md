@@ -29,6 +29,22 @@
 
 ---
 
+
+## 📷 Screenshots
+
+### 🔥 Frontend Gif
+![Image](https://github.com/user-attachments/assets/2c95ee52-9880-4cf4-8b6d-1d7ec1f025b2)
+
+### 🚨 Frontend Screenshot
+![Image](https://github.com/user-attachments/assets/4d6c4cfd-73a2-4c20-abec-cd80948ccc09)
+
+### 🖥 Backend Screenshot
+![Image](https://github.com/user-attachments/assets/ba445749-dd11-41d3-87db-05745e54f891)
+
+### 🗄 DataBase Screenshot (SQLite)
+![Image](https://github.com/user-attachments/assets/85531006-8154-4b72-b2b3-20a50039be1a)
+
+
 ## 🚀 Kurulum & Çalıştırma
 
 ### Backend
