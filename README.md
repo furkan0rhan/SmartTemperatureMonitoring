@@ -29,6 +29,29 @@
 
 ---
 
+## 🚀 Kurulum & Çalıştırma
+
+### Backend
+Server: http://localhost:5261
+
+cd SmartTemperatureMonitoring
+dotnet build
+dotnet ef database update -p SmartTemp.Infrastructure -s SmartTemp.Api
+dotnet run --project SmartTemp.Api
+
+ 
+### Frontend
+UI: http://localhost:4200
+
+cd smarttemp-ui
+npm install
+ng serve
+
+
+
+
+
+
 
 ## 📷 Screenshots
 
@@ -44,22 +67,3 @@
 ### 🗄 DataBase Screenshot (SQLite)
 ![Image](https://github.com/user-attachments/assets/85531006-8154-4b72-b2b3-20a50039be1a)
 
-
-## 🚀 Kurulum & Çalıştırma
-
-### Backend
-Server: http://localhost:5261
-`
-cd SmartTemperatureMonitoring
-dotnet build
-dotnet ef database update -p SmartTemp.Infrastructure -s SmartTemp.Api
-dotnet run --project SmartTemp.Api
- `
- 
-### Frontend
-UI: http://localhost:4200
-`
-cd smarttemp-ui
-npm install
-ng serve
-`
