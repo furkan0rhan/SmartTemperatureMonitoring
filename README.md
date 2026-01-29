@@ -34,23 +34,18 @@
 ### Backend
 Server: http://localhost:5261
 
-cd SmartTemperatureMonitoring
-dotnet build
-dotnet ef database update -p SmartTemp.Infrastructure -s SmartTemp.Api
-dotnet run --project SmartTemp.Api
+- cd SmartTemperatureMonitoring
+- dotnet build
+- dotnet ef database update -p SmartTemp.Infrastructure -s SmartTemp.Api
+- dotnet run --project SmartTemp.Api
 
  
 ### Frontend
 UI: http://localhost:4200
 
-cd smarttemp-ui
-npm install
-ng serve
-
-
-
-
-
+- cd smarttemp-ui
+- npm install
+- ng serve
 
 
 ## 📷 Screenshots
