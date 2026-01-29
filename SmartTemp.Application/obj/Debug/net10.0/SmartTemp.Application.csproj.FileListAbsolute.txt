@@ -1,0 +1,15 @@
+C:\Users\yok07\Desktop\Don't Rush\Projeler\WagnerKablo\SmartTemperatureMonitoring\SmartTemp.Application\bin\Debug\net10.0\SmartTemp.Application.deps.json
+C:\Users\yok07\Desktop\Don't Rush\Projeler\WagnerKablo\SmartTemperatureMonitoring\SmartTemp.Application\bin\Debug\net10.0\SmartTemp.Application.dll
+C:\Users\yok07\Desktop\Don't Rush\Projeler\WagnerKablo\SmartTemperatureMonitoring\SmartTemp.Application\bin\Debug\net10.0\SmartTemp.Application.pdb
+C:\Users\yok07\Desktop\Don't Rush\Projeler\WagnerKablo\SmartTemperatureMonitoring\SmartTemp.Application\bin\Debug\net10.0\SmartTemp.Domain.dll
+C:\Users\yok07\Desktop\Don't Rush\Projeler\WagnerKablo\SmartTemperatureMonitoring\SmartTemp.Application\bin\Debug\net10.0\SmartTemp.Domain.pdb
+C:\Users\yok07\Desktop\Don't Rush\Projeler\WagnerKablo\SmartTemperatureMonitoring\SmartTemp.Application\obj\Debug\net10.0\SmartTemp.Application.csproj.AssemblyReference.cache
+C:\Users\yok07\Desktop\Don't Rush\Projeler\WagnerKablo\SmartTemperatureMonitoring\SmartTemp.Application\obj\Debug\net10.0\SmartTemp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yok07\Desktop\Don't Rush\Projeler\WagnerKablo\SmartTemperatureMonitoring\SmartTemp.Application\obj\Debug\net10.0\SmartTemp.Application.AssemblyInfoInputs.cache
+C:\Users\yok07\Desktop\Don't Rush\Projeler\WagnerKablo\SmartTemperatureMonitoring\SmartTemp.Application\obj\Debug\net10.0\SmartTemp.Application.AssemblyInfo.cs
+C:\Users\yok07\Desktop\Don't Rush\Projeler\WagnerKablo\SmartTemperatureMonitoring\SmartTemp.Application\obj\Debug\net10.0\SmartTemp.Application.csproj.CoreCompileInputs.cache
+C:\Users\yok07\Desktop\Don't Rush\Projeler\WagnerKablo\SmartTemperatureMonitoring\SmartTemp.Application\obj\Debug\net10.0\SmartTem.7690D812.Up2Date
+C:\Users\yok07\Desktop\Don't Rush\Projeler\WagnerKablo\SmartTemperatureMonitoring\SmartTemp.Application\obj\Debug\net10.0\SmartTemp.Application.dll
+C:\Users\yok07\Desktop\Don't Rush\Projeler\WagnerKablo\SmartTemperatureMonitoring\SmartTemp.Application\obj\Debug\net10.0\refint\SmartTemp.Application.dll
+C:\Users\yok07\Desktop\Don't Rush\Projeler\WagnerKablo\SmartTemperatureMonitoring\SmartTemp.Application\obj\Debug\net10.0\SmartTemp.Application.pdb
+C:\Users\yok07\Desktop\Don't Rush\Projeler\WagnerKablo\SmartTemperatureMonitoring\SmartTemp.Application\obj\Debug\net10.0\ref\SmartTemp.Application.dll

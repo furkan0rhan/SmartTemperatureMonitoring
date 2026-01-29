@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SmartTemp.Api/SmartTemp.Api.csproj" />
+  <Project Path="SmartTemp.Application/SmartTemp.Application.csproj" />
+  <Project Path="SmartTemp.Domain/SmartTemp.Domain.csproj" />
+  <Project Path="SmartTemp.Infrastructure/SmartTemp.Infrastructure.csproj" />
+</Solution>
