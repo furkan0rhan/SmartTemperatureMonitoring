@@ -1,0 +1,26 @@
+# ========== .NET ==========
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+.vs/
+
+# ========== EF / DB ==========
+*.db
+*.db-shm
+*.db-wal
+
+# ========== Node / Angular ==========
+node_modules/
+.angular/
+dist/
+
+# ========== Environment ==========
+.env
+.env.*
+
+# ========== OS ==========
+.DS_Store
+Thumbs.db
